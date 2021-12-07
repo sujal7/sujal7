@@ -3,6 +3,14 @@
 - 🌱 I’m currently studying Bachelors's degree in Computer Science.
 - 📫 How to reach me -> sujalduwa@gmail.com
 
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=sujal7) -->
+🏆 
+##My Github Stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujal7&show_icons=true&theme=blue-green)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=blue-green)
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
