@@ -1,7 +1,7 @@
 ## :boy: About Me: 
 - 👋 Hi, I’m Sujal Duwa.
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently a Software Engineer Intern.
+- 💻 I’m currently an Associate Software Engineer.
 - 📫 How to reach me -> sujalduwa@gmail.com
 
 ## 🧰 Languages and Tools:
