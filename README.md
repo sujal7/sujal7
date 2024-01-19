@@ -18,18 +18,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  	
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## :notebook_with_decorative_cover: My Dev Card:
-<a href="https://app.daily.dev/sujal_s7"><img src="https://api.daily.dev/devcards/f8dc6117d277456ba5b29fb7ea0f9c8e.png?r=vx5" width="400" alt="Sujal Duwa's Dev Card"/></a>
-
-<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=sujal7) -->
-## 🏆 My Github Stats:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujal7&show_icons=true&theme=blue-green)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=blue-green)
-
-<!---
-sujal7/sujal7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
