@@ -1,6 +1,6 @@
 ## :boy: About Me: 
 - 👋 Hi, I’m Sujal Duwa.
-- 💻 I’m currently a Full Stack Software Engineer (React JS, Express JS, Nest JS, MySQL).
+- 💻 I’m currently a Full Stack Senior Software Engineer (React JS, Express JS, Nest JS, MySQL).
 
   I am a full-stack software engineer with experience in frontend development using React JS, and a strong background in backend development using Node JS, Express JS,   and Nest JS. I also have expertise in database design and implementation using MySQL.
 
